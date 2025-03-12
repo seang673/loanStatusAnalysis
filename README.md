@@ -4,3 +4,9 @@ beginning with plots of single variables and progressing to plots of multiple va
 I then created a brief presentation that highlights the intriguing characteristics, patterns, and connections I found in the dataset
 
 GitHub automatically renders Jupyter Notebooks, so you can view them directly in the browser. Just navigate to the .ipynb files in the repository, and it will be displayed. 
+
+## Imported Python Packages 
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
